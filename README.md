@@ -16,7 +16,7 @@ Software Requirement Specification for the Twitter Sentiment Analysis project.
   4. [Operating Environment](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#24-operating-environment)
   5. [Design and Implementation Constraints](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#25-design-and-implementation-constraints)
   6. [User Documentation](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#26-user-documentation)
-  7. [Assumptions and Dependencies](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#26-user-documentation)
+  7. [Assumptions and Dependencies](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#27-assumptions-and-dependencies)
 3. [External Interface Requirements](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#3-external-interface-requirements)
   1. [User Interfaces](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#31-user-interfaces)
   2. [Hardware Interfaces](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#32-hardware-interfaces)
