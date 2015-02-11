@@ -1,8 +1,9 @@
 # 1. Introduction
 
 ## 1.1 Purpose 
-
-Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.
+This project intends to perform sentiment analysis of 'tweets' collectedd from twitter.com collected in a real time fashion. The goal is to aggregate the collected tweets based on their 'Hashtags' and by performing sentiment analysis, guage the mood of the people with respect to that 'Hashtag' or topic.
+;This SRS will describe the;
+;Identify the product whose software requirements are specified in this document, including the revision or release number. ;Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or ;a single subsystem.
 
 ## 1.2 Document Conventions
 
